@@ -1,7 +1,7 @@
 # Notes (macOS clone)
 ><b>React.js <br>TypeScript <br>JSX<br>MobX</b>
 ## [LIVE DEMO](https://iosnotes.netlify.app/)
-![Logo](./COVER.jpg)
+![Logo](./COVER.jpgx)
 
 # Getting Started with Create React App
 
